@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.erbarredi.erbarredi;
+package com.erbarredi.Erbarredi;
 
 import android.os.Bundle;
 import org.apache.cordova.*;

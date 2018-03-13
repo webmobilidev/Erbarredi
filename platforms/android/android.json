@@ -131,35 +131,35 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.erbarredi.erbarredi"
+            "PACKAGE_NAME": "com.erbarredi.Erbarredi"
         }
     },
     "dependent_plugins": {},
